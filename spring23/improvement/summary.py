@@ -24,12 +24,6 @@ Weaknesses
     be much harder than anticipated simply due to being unfamiliar with implementing them.
     Although I was able to theorize solutions for these problems, I wasn't able to successfully
     put my solution into code.
-
-    
-
-
-
-Training Time: https://youtu.be/btPJPFnesV4
-
-
 """
+
+
