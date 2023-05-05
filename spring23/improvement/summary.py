@@ -11,12 +11,6 @@ As such, a lot of the easy points were left to waste so I could focus my little 
 problems I found interesting. If I were to participate in an actual programming competition
 I would likely take a different approach, but I'm here for practice, not points, so whatever.
 
-Early Strengths
-    
-
-
-Identified Improvements
-
 
 Weaknesses
     The most popular lecture problem type this semester seemed to be graph traversal, 
